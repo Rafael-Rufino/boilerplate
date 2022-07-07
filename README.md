@@ -3,7 +3,7 @@
 ## copiar estrutura do boilerplate de um projeto
 - yarn create next-app -e https://github.com/Rafael-Rufino/boilerplate
 
-## Esse proejto está configurando com:
+## Esse projeto está configurando com:
 
 * Typescript
 * Nextjs
@@ -17,7 +17,15 @@
 * Plop
 
 
-## Escute o seguinte comando para rodar o projeto
-* npm run sev
+## Execute o seguinte comando para rodar o projeto
+* npm run dev
 ## or
 * yarn dev
+
+
+## Instale as dependecias do projeto
+* yarn install
+## or
+
+* npm install
+
