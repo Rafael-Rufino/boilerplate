@@ -14,6 +14,7 @@
 * Eslint 
 * Prettier
 * Husky
+* Plop
 
 
 ## Escute o seguinte comando para rodar o projeto
